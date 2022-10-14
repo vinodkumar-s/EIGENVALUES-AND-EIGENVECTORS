@@ -11,9 +11,11 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 ### Step 4: finally,print the values of the eigen values and eigen vectors.
 
 ## Program:
-## Program to find the eigen values and eigen vectors.
-## Developed by: s.vinod kumar
-## RegisterNumber:22004903
+ Program to find the eigen values and eigen vectors.
+ 
+ Developed by: s.vinod kumar
+ 
+ RegisterNumber:22004903
 ``` python
 import numpy as np
 A=np.array([[2,-3,0],[2,-5,0],[0,0,3]])
